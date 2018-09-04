@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42317820-da81-4fd7-bbd6-2a5585b402f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mrybak834/polymorphism/MethodOverriding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Audi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/MethodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/MethodOverriding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Primitives.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/ThingsToRemember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/UserInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mrybak834/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mrybak834/polymorphism/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverriding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mrybak834/basics/Primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThingsToRemember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mrybak834/basics/ThingsToRemember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mrybak834/basics/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mrybak834/patterns/Factory.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,39 +86,65 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
+    <session id="188431391">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6878" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6878" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses/StaticNestedClass.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/ShapeDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="method#print#0;class#Candy#0;class#StaticNestedClass#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/RedShapeDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses/AnonymousInnerClass.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/DecoratorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="23" column="64" lean-forward="true" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
-              <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#375#503#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="class#654:776" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -153,48 +165,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Numbers.java" />
-        <option value="$PROJECT_DIR$/src/Primitives.java" />
-        <option value="$PROJECT_DIR$/src/Operators.java" />
-        <option value="$PROJECT_DIR$/src/MethodOverloading.java" />
-        <option value="$PROJECT_DIR$/src/ThingsToRemember.java" />
-        <option value="$PROJECT_DIR$/src/UserInput.java" />
-        <option value="$PROJECT_DIR$/src/MethodOverriding.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/classes/Car.java" />
-        <option value="$PROJECT_DIR$/src/Hello.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/Hello.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/MethodOverloading.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/MethodOverriding.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/inheritance/Animal.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/inheritance/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/inheritance/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/parameterPassing/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/inheritance/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/inheritance/Audi.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/encapsulation/Player.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/encapsulation/Printer.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/composition/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/masterChallenges/polymorphism/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/polymorphism/MethodOverriding.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/basics/Arrays.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/basics/Array.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/challenges/arrayMinElement.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/basics/ThingsToRemember.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Factory.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/challenges/ArrayReverse.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/challenges/ArrayMinElement.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/iterator/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/iterator/Iterators.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/object/ToString.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/interfaces/SmartPhone.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/interfaces/Telephone.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/interfaces/Animal.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/challenges/interfaces/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/challenges/interfaces/Saveable.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/innerClasses/NestedInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/innerClasses/MethodLocalInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/innerClasses/StaticNestedClass.java" />
-        <option value="$PROJECT_DIR$/src/com/mrybak834/innerClasses/AnonymousInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/factory/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/factory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/factory/FactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Color.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Red.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Green.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Blue.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/FactoryGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/AbstractFactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/singleton/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/singleton/SingleObject.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/Container.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/Box.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/Bottle.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/FoodItem.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/foodItem/Burger.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/foodItem/ChickenBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/foodItem/VegBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/foodItem/Drink.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/foodItem/Pepsi.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/foodItem/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Builder/Meal.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/ShapeCache.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/PrototypeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/Adapter/mediaPlayer/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/mediaPlayer/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AdvancedMediaPlayer/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AdvancedMediaPlayer/VLCPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AdvancedMediaPlayer/MP4Player.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AdapterDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/composite/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/composite/CompositeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/shape/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/shape/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/shape/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/ShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/RedShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/DecoratorDemo.java" />
       </list>
     </option>
   </component>
@@ -210,11 +231,26 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="528" />
-    <option name="y" value="23" />
-    <option name="width" value="838" />
-    <option name="height" value="729" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="573" />
+    <option name="y" value="56" />
+    <option name="width" value="1077" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -224,6 +260,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -248,13 +285,36 @@
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mrybak834" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mrybak834" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mrybak834" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mrybak834" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="shape" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,13 +338,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnonymousInnerClass">
-    <configuration name="AnonymousInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrybak834.innerClasses.AnonymousInnerClass" />
+  <component name="RunManager" selected="Application.DecoratorDemo">
+    <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrybak834.patterns.adapter.AdapterDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrybak834.innerClasses.*" />
+          <option name="PATTERN" value="com.mrybak834.patterns.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrybak834.innerClasses.Main" />
+    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrybak834.patterns.builder.BuilderDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrybak834.innerClasses.*" />
+          <option name="PATTERN" value="com.mrybak834.patterns.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,12 +365,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrybak834.interfaces.Main" />
+    <configuration name="CompositeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrybak834.patterns.composite.CompositeDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrybak834.interfaces.*" />
+          <option name="PATTERN" value="com.mrybak834.patterns.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,12 +378,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodLocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrybak834.innerClasses.MethodLocalInnerClass" />
+    <configuration name="DecoratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrybak834.patterns.decorator.DecoratorDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrybak834.innerClasses.*" />
+          <option name="PATTERN" value="com.mrybak834.patterns.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,12 +391,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrybak834.object.ToString" />
+    <configuration name="PrototypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrybak834.patterns.prototype.PrototypeDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrybak834.object.*" />
+          <option name="PATTERN" value="com.mrybak834.patterns.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,19 +405,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ToString" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.MethodLocalInnerClass" />
-      <item itemvalue="Application.AnonymousInnerClass" />
+      <item itemvalue="Application.BuilderDemo" />
+      <item itemvalue="Application.PrototypeDemo" />
+      <item itemvalue="Application.AdapterDemo" />
+      <item itemvalue="Application.CompositeDemo" />
+      <item itemvalue="Application.DecoratorDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnonymousInnerClass" />
-        <item itemvalue="Application.MethodLocalInnerClass" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ToString" />
+        <item itemvalue="Application.DecoratorDemo" />
+        <item itemvalue="Application.CompositeDemo" />
+        <item itemvalue="Application.AdapterDemo" />
+        <item itemvalue="Application.PrototypeDemo" />
+        <item itemvalue="Application.BuilderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -374,24 +434,26 @@
       <workItem from="1535585678087" duration="21419000" />
       <workItem from="1535744687241" duration="11331000" />
       <workItem from="1535832083687" duration="17092000" />
+      <workItem from="1535997073966" duration="45000" />
+      <workItem from="1535997133645" duration="14190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49842000" />
+    <option name="totallyTimeSpent" value="64077000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="528" y="23" width="838" height="729" extended-state="1" />
+    <frame x="573" y="56" width="1077" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24623115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23402163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29042387" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28510183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,382 +492,366 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/HelloWorld/Numbers.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/classes/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/factory/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/factory/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/factory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/shape/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Green.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/color/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/FactoryGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="method#main#0;class#Hello#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/basics/Primitives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="method#main#0;class#Primitives#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/polymorphism/MethodOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="docComment;method#main#0;class#MethodOverloading#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/inheritance/Dog.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/inheritance/Animal.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/parameterPassing/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="method#modifier#0;class#Main#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="method#modifier#0;class#Dog#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/inheritance/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/inheritance/Audi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/inheritance/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/inheritance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/composition.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/encapsulation/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="docComment;class#Printer#0" expanded="true" />
-            <element signature="method#Printer#0;class#Printer#0" expanded="true" />
-            <element signature="method#print#0;class#Printer#0" expanded="true" />
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/composition/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/masterChallenges/polymorphism/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="35" column="82" selection-start-line="35" selection-start-column="82" selection-end-line="35" selection-end-column="82" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="class#Bun#0;class#Hamburger#0" expanded="true" />
-            <element signature="class#Meat#0;class#Hamburger#0" expanded="true" />
-            <element signature="method#Hamburger#0;class#Hamburger#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/polymorphism/MethodOverriding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="docComment;class#MethodOverriding#0" expanded="true" />
-            <element signature="docComment;method#superSpeed#0;class#Audi#0" expanded="true" />
-            <element signature="method#superSpeed#0;class#Audi#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/basics/UserInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;method#main#0;class#UserInput#0" expanded="true" />
-            <element signature="method#main#0;class#UserInput#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/Factory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/AbstractFactoryPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="method#main#0;class#Factory#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="docComment;field#Cr#0;class#Contact#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-          </folding>
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/abstractFactory/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="438" column="12" selection-start-line="438" selection-start-column="12" selection-end-line="438" selection-end-column="12" />
-          <folding>
-            <element signature="e#15865#16235#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/basics/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/singleton/SingleObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/iterator/Iterators.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/singleton/SingletonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#652#689#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/container/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/container/Bottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/VegBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/ChickenBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/Burger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/Pepsi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/BuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/foodItem/FoodItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/builder/container/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/ShapeCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/prototype/PrototypeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/mediaPlayer/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/advancedMediaPlayer/VLCPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/advancedMediaPlayer/MP4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mrybak834/basics/ThingsToRemember.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="101" column="1" lean-forward="true" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="method#arrayList#0;class#ThingsToRemember#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-442">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/object/ToString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/advancedMediaPlayer/AdvancedMediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="method#main#0;class#ToString#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/interfaces/SmartPhone.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/MediaAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="method#answer#0;class#SmartPhone#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/interfaces/Telephone.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="170">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/interfaces/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/adapter/AdapterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-          <folding>
-            <element signature="method#Animal#0;class#Animal#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="method#ascend#0;class#Bird#0" expanded="true" />
-            <element signature="method#descend#0;class#Bird#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/challenges/arrays/ArrayMinElement.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/composite/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#ArrayMinElement#0" expanded="true" />
-            <element signature="method#readIntegers#0;class#ArrayMinElement#0" expanded="true" />
-            <element signature="method#findMin#0;class#ArrayMinElement#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/challenges/arrays/ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/composite/CompositeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="method#reverse#0;class#ArrayReverse#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/challenges/interfaces/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/shape/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="e#230#238#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/challenges/interfaces/Saveable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/shape/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/shape/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses/NestedInnerClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/RedShapeDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding>
-            <element signature="method#NestedInnerClass#0;class#NestedInnerClass#0" expanded="true" />
-            <element signature="method#Inner#0;class#Inner#0;class#NestedInnerClass#0" expanded="true" />
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="e#505#518#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses/MethodLocalInnerClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/ShapeDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="method#main#0;class#MethodLocalInnerClass#0" expanded="true" />
-            <element signature="class#128:380" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses/StaticNestedClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/patterns/decorator/DecoratorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="method#print#0;class#Candy#0;class#StaticNestedClass#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mrybak834/innerClasses/AnonymousInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="23" column="64" lean-forward="true" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#375#503#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="class#654:776" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -867,6 +913,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
